@@ -1,10 +1,9 @@
-" =================================================
-"   Configuration file created by Patryk Gawroński
+" ========================================================
+"   Vim Configuration file created by Patryk Gawroński
 "
-"   e-mail:                gawronski1.6@gmail.com
-"  
-"
-" =================================================
+"   License:        GNU General Public License v3.0
+"   e-mail:         gawronski1.6@gmail.com
+" ========================================================
 
 set t_Co=256
 syntax on
