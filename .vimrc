@@ -1,3 +1,10 @@
+" =================================================
+"   Configuration file created by Patryk Gawroński
+"
+"   e-mail:                gawronski1.6@gmail.com
+"  
+"
+" =================================================
 
 set t_Co=256
 syntax on
